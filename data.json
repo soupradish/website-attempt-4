@@ -1,0 +1,48 @@
+{
+  "profile": {
+    "name": "Kenneth Jennings",
+    "headline": "Information Systems @ Ball State University | Intern Career Growth Now",
+    "location": "Greater Indianapolis",
+    "email": "kennethljennings@gmail.com",
+    "linkedin": "linkedin.com/in/kennethjennings",
+    "summary": "I'm Kenneth Jennings, a success-driven first-year student at Ball State University studying Business Information Systems; I am also a part of the prestigious Miller Leadership Academy scholarship program. On campus, I have multiple involvements: the Miller College of Business' Dean's Student Advisory Council, Student Government Association, Pi Kappa Alpha Fraternity, Residence Hall Council, and Esports Team Management. I am passionate about learning cloud computing, AI database structuring, hardware, and digital asset C2C services."
+  },
+  "experience": [
+    {
+      "company": "Career Growth Now",
+      "role": "Intern",
+      "dates": "January 2026 - Present",
+      "tasks": [
+        "Analyzing UI, providing constructive feedback, suggestions for improvement.",
+        "Connecting with managers from Fortune 100 organizations to enhance website credibility.",
+        "Streamlining processes to create greater efficiency to better user experience with website."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "Ball State University - Miller College of Business",
+      "degree": "Bachelor of Science - BS, Business Information Systems",
+      "dates": "August 2025 - May 2029"
+    },
+    {
+      "school": "North Central High School",
+      "degree": "High School Diploma",
+      "dates": "August 2021 - May 2025"
+    }
+  ],
+  "skills": [
+    "Data Import/export", 
+    "Research Skills", 
+    "Information Graphics", 
+    "Includer", 
+    "Communication", 
+    "Input", 
+    "Positivity", 
+    "Ideation"
+  ],
+  "awards": [
+    "Frank Leonard Oakes Scholarship",
+    "Miller Leadership Academy"
+  ]
+}
